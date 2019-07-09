@@ -75,7 +75,7 @@ public class AlbertControls : MonoBehaviour
             default:
                 losingFX.Play();
                 jetpackSound.PlayOneShot(losingSFX);
-                Invoke("LoadPreviousScene", 4);
+                Invoke("LoadPreviousScene", 2);
                 SceneManager.LoadScene(0);
                 break;
         }
