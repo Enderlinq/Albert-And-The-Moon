@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 944a03b6143d6bc4aab28d504074ce88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thrustSound: {instanceID: 0}
+  - winningSFX: {instanceID: 0}
+  - losingSFX: {instanceID: 0}
+  - winningFX: {instanceID: 0}
+  - losingFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
